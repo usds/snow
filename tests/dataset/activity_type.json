@@ -1,0 +1,118 @@
+{
+    "result": [
+        {
+            "active": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "activity_name": {
+                "display_value": "Collect Bug Report",
+                "value": "Collect Bug Report"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "aac8c3d8a1266c50ba7dc49f23ebe9da",
+                "value": "aac8c3d8a1266c50ba7dc49f23ebe9da"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "activity_name": {
+                "display_value": "Contact Customer",
+                "value": "Contact Customer"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "411a7ba2672ba4c0a1d8b9980c2a776e",
+                "value": "411a7ba2672ba4c0a1d8b9980c2a776e"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "activity_name": {
+                "display_value": "Escalate To Manager",
+                "value": "Escalate To Manager"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "ef9a311e507edf450ce82fe4ecedb231",
+                "value": "ef9a311e507edf450ce82fe4ecedb231"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        }
+    ]
+}

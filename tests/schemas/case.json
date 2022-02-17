@@ -1,0 +1,89 @@
+{
+    "active": {
+        "faker": {
+            "args": {
+                "elements": [
+                    "true"
+                ]
+            },
+            "method": "random_element"
+        },
+        "purpose": "Whether this is an archived record, false effectively means deleted."
+    },
+    "case_type": {
+        "purpose": "Case type"
+    },
+    "closed_at": {
+        "purpose": "TODO"
+    },
+    "closed_by": {
+        "purpose": "TODO"
+    },
+    "first_customer_contact": {
+        "purpose": "TODO",
+        "valid_date_range": {
+            "date_start": "2020-01-01"
+        }
+    },
+    "location": {
+        "purpose": "case location",
+        "reference": "location"
+    },
+    "number": {
+        "format": "CA-######",
+        "is_table_display_value": true,
+        "purpose": "case number"
+    },
+    "opened_at": {
+        "purpose": "TODO"
+    },
+    "opened_by": {
+        "purpose": "TODO",
+        "reference": "sys_user"
+    },
+    "phase": {
+        "purpose": "TODO",
+        "reference": "phase"
+    },
+    "sys_class_name": {
+        "purpose": "TODO"
+    },
+    "sys_created_by": {
+        "purpose": "TODO"
+    },
+    "sys_created_on": {
+        "purpose": "TODO",
+        "valid_date_range": {
+            "date_start": "2021-01-01"
+        }
+    },
+    "sys_domain": {
+        "purpose": "TODO",
+        "reference": "sys_user_group"
+    },
+    "sys_domain_path": {
+        "purpose": "TODO"
+    },
+    "sys_id": {
+        "faker": {
+            "args": {},
+            "method": "md5"
+        },
+        "purpose": "Primary Key"
+    },
+    "sys_mod_count": {
+        "purpose": "TODO"
+    },
+    "sys_tags": {
+        "purpose": "TODO"
+    },
+    "sys_updated_by": {
+        "purpose": "TODO"
+    },
+    "sys_updated_on": {
+        "purpose": "TODO"
+    },
+    "type": {
+        "purpose": "TODO"
+    }
+}

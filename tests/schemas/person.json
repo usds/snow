@@ -1,0 +1,119 @@
+{
+    "active": {
+        "faker": {
+            "args": {
+                "elements": [
+                    "true"
+                ]
+            },
+            "method": "random_element"
+        },
+        "purpose": "Whether this is an archived record, false effectively means deleted."
+    },
+    "age": {
+        "faker": {
+            "args": {
+                "max": 120,
+                "min": 0
+            },
+            "method": "random_int"
+        },
+        "purpose": "TODO"
+    },
+    "assigned_case": {
+        "purpose": "TODO",
+        "reference": "case"
+    },
+    "comments": {
+        "purpose": "TODO"
+    },
+    "contact_email": {
+        "purpose": "TODO"
+    },
+    "contact_phone": {
+        "purpose": "TODO"
+    },
+    "country_of_citizenship": {
+        "purpose": "TODO"
+    },
+    "date_of_birth": {
+        "purpose": "Date of Birth",
+        "valid_date_range": {
+            "date_start": "1910-01-01"
+        }
+    },
+    "first_name": {
+        "faker": {
+            "args": {},
+            "method": "first_name"
+        },
+        "purpose": "First Name"
+    },
+    "language": {
+        "faker": {
+            "args": {},
+            "method": "language_name"
+        },
+        "purpose": "Language"
+    },
+    "last_name": {
+        "faker": {
+            "args": {},
+            "method": "last_name"
+        },
+        "purpose": "Last Name"
+    },
+    "middle_name": {
+        "purpose": "TODO"
+    },
+    "name": {
+        "faker": {
+            "args": {},
+            "method": "name"
+        },
+        "is_table_display_value": true,
+        "purpose": "TODO"
+    },
+    "nationality": {
+        "purpose": "Nationality"
+    },
+    "notes": {
+        "purpose": "TODO"
+    },
+    "sex": {
+        "mappings": {
+            "F": "F",
+            "M": "M",
+            "N/A": "N/A"
+        },
+        "purpose": "Gender"
+    },
+    "sys_created_by": {
+        "purpose": "TODO"
+    },
+    "sys_created_on": {
+        "purpose": "TODO",
+        "valid_date_range": {
+            "date_start": "2021-01-01"
+        }
+    },
+    "sys_id": {
+        "faker": {
+            "args": {},
+            "method": "md5"
+        },
+        "purpose": "Primary Key"
+    },
+    "sys_mod_count": {
+        "purpose": "TODO"
+    },
+    "sys_tags": {
+        "purpose": "TODO"
+    },
+    "sys_updated_by": {
+        "purpose": "TODO"
+    },
+    "sys_updated_on": {
+        "purpose": "TODO"
+    }
+}

@@ -1,0 +1,954 @@
+{
+    "result": [
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 25,
+                "value": 25
+            },
+            "assigned_case": {
+                "display_value": "CA-318905",
+                "link": "https://localdataset.local/api/now/table/case/ef2da0ce97fee61c754ef53009589a83",
+                "value": "ef2da0ce97fee61c754ef53009589a83"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1953-08-18",
+                "value": "1953-08-18"
+            },
+            "first_name": {
+                "display_value": "Richard",
+                "value": "Richard"
+            },
+            "language": {
+                "display_value": "Thai",
+                "value": "Thai"
+            },
+            "last_name": {
+                "display_value": "Ray",
+                "value": "Ray"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Rachel Burch",
+                "value": "Rachel Burch"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "M",
+                "value": "M"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-10-26",
+                "value": "2021-10-26"
+            },
+            "sys_id": {
+                "display_value": "2104eeece079a9a694c80effadf1f411",
+                "value": "2104eeece079a9a694c80effadf1f411"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 68,
+                "value": 68
+            },
+            "assigned_case": {
+                "display_value": "CA-141733",
+                "link": "https://localdataset.local/api/now/table/case/5e962ffe49641e31650543d11db05a10",
+                "value": "5e962ffe49641e31650543d11db05a10"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "2002-04-18",
+                "value": "2002-04-18"
+            },
+            "first_name": {
+                "display_value": "Danny",
+                "value": "Danny"
+            },
+            "language": {
+                "display_value": "Sardinian",
+                "value": "Sardinian"
+            },
+            "last_name": {
+                "display_value": "Harvey",
+                "value": "Harvey"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Samuel Walsh",
+                "value": "Samuel Walsh"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "M",
+                "value": "M"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-05-18",
+                "value": "2021-05-18"
+            },
+            "sys_id": {
+                "display_value": "cd529690f704613b492167b6a51da847",
+                "value": "cd529690f704613b492167b6a51da847"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 15,
+                "value": 15
+            },
+            "assigned_case": {
+                "display_value": "CA-168671",
+                "link": "https://localdataset.local/api/now/table/case/e3cd7fe7c3f22d2bce77e08dacc5887f",
+                "value": "e3cd7fe7c3f22d2bce77e08dacc5887f"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1951-09-07",
+                "value": "1951-09-07"
+            },
+            "first_name": {
+                "display_value": "John",
+                "value": "John"
+            },
+            "language": {
+                "display_value": "Esperanto",
+                "value": "Esperanto"
+            },
+            "last_name": {
+                "display_value": "Logan",
+                "value": "Logan"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Lauren Stokes",
+                "value": "Lauren Stokes"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "M",
+                "value": "M"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-02-19",
+                "value": "2021-02-19"
+            },
+            "sys_id": {
+                "display_value": "8b710d7deab278bce168a3eafc0ee6fe",
+                "value": "8b710d7deab278bce168a3eafc0ee6fe"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 56,
+                "value": 56
+            },
+            "assigned_case": {
+                "display_value": "CA-305227",
+                "link": "https://localdataset.local/api/now/table/case/0c5cf4e4eda6e08229b94b8b81cb3229",
+                "value": "0c5cf4e4eda6e08229b94b8b81cb3229"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1991-04-22",
+                "value": "1991-04-22"
+            },
+            "first_name": {
+                "display_value": "Paul",
+                "value": "Paul"
+            },
+            "language": {
+                "display_value": "Ndonga",
+                "value": "Ndonga"
+            },
+            "last_name": {
+                "display_value": "Keith",
+                "value": "Keith"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "David Nelson",
+                "value": "David Nelson"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "N/A",
+                "value": "N/A"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-06-30",
+                "value": "2021-06-30"
+            },
+            "sys_id": {
+                "display_value": "c946bd9009a71d223ea603e44654ddbd",
+                "value": "c946bd9009a71d223ea603e44654ddbd"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 5,
+                "value": 5
+            },
+            "assigned_case": {
+                "display_value": "CA-199151",
+                "link": "https://localdataset.local/api/now/table/case/8fd1ddf0457999e320ea5fa5a0e8ba16",
+                "value": "8fd1ddf0457999e320ea5fa5a0e8ba16"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1962-01-15",
+                "value": "1962-01-15"
+            },
+            "first_name": {
+                "display_value": "Lauren",
+                "value": "Lauren"
+            },
+            "language": {
+                "display_value": "Estonian",
+                "value": "Estonian"
+            },
+            "last_name": {
+                "display_value": "Sanders",
+                "value": "Sanders"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Joseph Gill",
+                "value": "Joseph Gill"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "M",
+                "value": "M"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-02-18",
+                "value": "2021-02-18"
+            },
+            "sys_id": {
+                "display_value": "153c72f69bb3cd45ab2896a4a60efd37",
+                "value": "153c72f69bb3cd45ab2896a4a60efd37"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 8,
+                "value": 8
+            },
+            "assigned_case": {
+                "display_value": "CA-168671",
+                "link": "https://localdataset.local/api/now/table/case/e3cd7fe7c3f22d2bce77e08dacc5887f",
+                "value": "e3cd7fe7c3f22d2bce77e08dacc5887f"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1929-05-30",
+                "value": "1929-05-30"
+            },
+            "first_name": {
+                "display_value": "William",
+                "value": "William"
+            },
+            "language": {
+                "display_value": "Polish",
+                "value": "Polish"
+            },
+            "last_name": {
+                "display_value": "Cohen",
+                "value": "Cohen"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Lisa Soto",
+                "value": "Lisa Soto"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "F",
+                "value": "F"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-03-27",
+                "value": "2021-03-27"
+            },
+            "sys_id": {
+                "display_value": "b98222a57c4b0f5d0ab09baeee1bcb69",
+                "value": "b98222a57c4b0f5d0ab09baeee1bcb69"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 97,
+                "value": 97
+            },
+            "assigned_case": {
+                "display_value": "CA-141733",
+                "link": "https://localdataset.local/api/now/table/case/5e962ffe49641e31650543d11db05a10",
+                "value": "5e962ffe49641e31650543d11db05a10"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1928-12-18",
+                "value": "1928-12-18"
+            },
+            "first_name": {
+                "display_value": "Donald",
+                "value": "Donald"
+            },
+            "language": {
+                "display_value": "Danish",
+                "value": "Danish"
+            },
+            "last_name": {
+                "display_value": "Coleman",
+                "value": "Coleman"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Mrs. Shelley Lopez",
+                "value": "Mrs. Shelley Lopez"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "F",
+                "value": "F"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-07-23",
+                "value": "2021-07-23"
+            },
+            "sys_id": {
+                "display_value": "0ffbadb3f1d53002b38200e7e1f555db",
+                "value": "0ffbadb3f1d53002b38200e7e1f555db"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 74,
+                "value": 74
+            },
+            "assigned_case": {
+                "display_value": "CA-446425",
+                "link": "https://localdataset.local/api/now/table/case/3b62114b89274a7ce0d196bc33259e1c",
+                "value": "3b62114b89274a7ce0d196bc33259e1c"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1965-09-03",
+                "value": "1965-09-03"
+            },
+            "first_name": {
+                "display_value": "Tyrone",
+                "value": "Tyrone"
+            },
+            "language": {
+                "display_value": "Xhosa",
+                "value": "Xhosa"
+            },
+            "last_name": {
+                "display_value": "Obrien",
+                "value": "Obrien"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Tammy Gilmore",
+                "value": "Tammy Gilmore"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "N/A",
+                "value": "N/A"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-01-17",
+                "value": "2021-01-17"
+            },
+            "sys_id": {
+                "display_value": "9563730e157f4e508742d302026adfa7",
+                "value": "9563730e157f4e508742d302026adfa7"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 99,
+                "value": 99
+            },
+            "assigned_case": {
+                "display_value": "CA-199151",
+                "link": "https://localdataset.local/api/now/table/case/8fd1ddf0457999e320ea5fa5a0e8ba16",
+                "value": "8fd1ddf0457999e320ea5fa5a0e8ba16"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1995-10-02",
+                "value": "1995-10-02"
+            },
+            "first_name": {
+                "display_value": "Tracy",
+                "value": "Tracy"
+            },
+            "language": {
+                "display_value": "Danish",
+                "value": "Danish"
+            },
+            "last_name": {
+                "display_value": "Atkins",
+                "value": "Atkins"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Stephen Brown Jr.",
+                "value": "Stephen Brown Jr."
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "N/A",
+                "value": "N/A"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-02-03",
+                "value": "2021-02-03"
+            },
+            "sys_id": {
+                "display_value": "0b3ada2d1ec37e799988c045da11af19",
+                "value": "0b3ada2d1ec37e799988c045da11af19"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "age": {
+                "display_value": 61,
+                "value": 61
+            },
+            "assigned_case": {
+                "display_value": "CA-318905",
+                "link": "https://localdataset.local/api/now/table/case/ef2da0ce97fee61c754ef53009589a83",
+                "value": "ef2da0ce97fee61c754ef53009589a83"
+            },
+            "comments": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_email": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "contact_phone": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "country_of_citizenship": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "date_of_birth": {
+                "display_value": "1948-03-10",
+                "value": "1948-03-10"
+            },
+            "first_name": {
+                "display_value": "Brooke",
+                "value": "Brooke"
+            },
+            "language": {
+                "display_value": "Avaric",
+                "value": "Avaric"
+            },
+            "last_name": {
+                "display_value": "Thompson",
+                "value": "Thompson"
+            },
+            "middle_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Tara Roberts",
+                "value": "Tara Roberts"
+            },
+            "nationality": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "notes": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sex": {
+                "display_value": "F",
+                "value": "F"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-08-04",
+                "value": "2021-08-04"
+            },
+            "sys_id": {
+                "display_value": "052c007cfa0812a3833ddfdf33b74123",
+                "value": "052c007cfa0812a3833ddfdf33b74123"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        }
+    ]
+}

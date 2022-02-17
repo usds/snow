@@ -1,0 +1,25 @@
+{
+    "active": {},
+    "name": {
+        "is_table_display_value": true,
+        "purpose": "TODO",
+        "valid_values": [
+            "Main Office",
+            "Branch Office 1",
+            "Branch Office 2"
+        ]
+    },
+    "sys_created_by": {},
+    "sys_created_on": {},
+    "sys_id": {
+        "faker": {
+            "args": {},
+            "method": "md5"
+        },
+        "purpose": "Primary Key"
+    },
+    "sys_mod_count": {},
+    "sys_tags": {},
+    "sys_updated_by": {},
+    "sys_updated_on": {}
+}

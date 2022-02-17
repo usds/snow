@@ -1,0 +1,118 @@
+{
+    "result": [
+        {
+            "active": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Main Office",
+                "value": "Main Office"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "0385a9b96b611ca25d73a1af79880ff8",
+                "value": "0385a9b96b611ca25d73a1af79880ff8"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Branch Office 1",
+                "value": "Branch Office 1"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "b06b7c75c6fefd3b3648e30fd18184ff",
+                "value": "b06b7c75c6fefd3b3648e30fd18184ff"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "name": {
+                "display_value": "Branch Office 2",
+                "value": "Branch Office 2"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "76f5aeb24da7687e1dde674ed9041deb",
+                "value": "76f5aeb24da7687e1dde674ed9041deb"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        }
+    ]
+}

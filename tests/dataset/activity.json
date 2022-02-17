@@ -1,0 +1,444 @@
+{
+    "result": [
+        {
+            "active": {
+                "display_value": "false",
+                "value": "false"
+            },
+            "activity_type": {
+                "display_value": "Contact Customer",
+                "link": "https://localdataset.local/api/now/table/activity_type/411a7ba2672ba4c0a1d8b9980c2a776e",
+                "value": "411a7ba2672ba4c0a1d8b9980c2a776e"
+            },
+            "person": {
+                "display_value": "Mrs. Shelley Lopez",
+                "link": "https://localdataset.local/api/now/table/person/0ffbadb3f1d53002b38200e7e1f555db",
+                "value": "0ffbadb3f1d53002b38200e7e1f555db"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-07-07",
+                "value": "2021-07-07"
+            },
+            "sys_id": {
+                "display_value": "cb8348f8e8dfa31a2aee965029d85b8b",
+                "value": "cb8348f8e8dfa31a2aee965029d85b8b"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "false",
+                "value": "false"
+            },
+            "activity_type": {
+                "display_value": "Escalate To Manager",
+                "link": "https://localdataset.local/api/now/table/activity_type/ef9a311e507edf450ce82fe4ecedb231",
+                "value": "ef9a311e507edf450ce82fe4ecedb231"
+            },
+            "person": {
+                "display_value": "Tara Roberts",
+                "link": "https://localdataset.local/api/now/table/person/052c007cfa0812a3833ddfdf33b74123",
+                "value": "052c007cfa0812a3833ddfdf33b74123"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-05-17",
+                "value": "2021-05-17"
+            },
+            "sys_id": {
+                "display_value": "2b005674b494d5ebbde74d9dc9d89815",
+                "value": "2b005674b494d5ebbde74d9dc9d89815"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "false",
+                "value": "false"
+            },
+            "activity_type": {
+                "display_value": "Escalate To Manager",
+                "link": "https://localdataset.local/api/now/table/activity_type/ef9a311e507edf450ce82fe4ecedb231",
+                "value": "ef9a311e507edf450ce82fe4ecedb231"
+            },
+            "person": {
+                "display_value": "Mrs. Shelley Lopez",
+                "link": "https://localdataset.local/api/now/table/person/0ffbadb3f1d53002b38200e7e1f555db",
+                "value": "0ffbadb3f1d53002b38200e7e1f555db"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-08-24",
+                "value": "2021-08-24"
+            },
+            "sys_id": {
+                "display_value": "24901e4de7aa6b322006c6c9008c053d",
+                "value": "24901e4de7aa6b322006c6c9008c053d"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "activity_type": {
+                "display_value": "Contact Customer",
+                "link": "https://localdataset.local/api/now/table/activity_type/411a7ba2672ba4c0a1d8b9980c2a776e",
+                "value": "411a7ba2672ba4c0a1d8b9980c2a776e"
+            },
+            "person": {
+                "display_value": "Stephen Brown Jr.",
+                "link": "https://localdataset.local/api/now/table/person/0b3ada2d1ec37e799988c045da11af19",
+                "value": "0b3ada2d1ec37e799988c045da11af19"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-08-31",
+                "value": "2021-08-31"
+            },
+            "sys_id": {
+                "display_value": "2c841d3b9b25372364214f6c963efba1",
+                "value": "2c841d3b9b25372364214f6c963efba1"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "activity_type": {
+                "display_value": "Collect Bug Report",
+                "link": "https://localdataset.local/api/now/table/activity_type/aac8c3d8a1266c50ba7dc49f23ebe9da",
+                "value": "aac8c3d8a1266c50ba7dc49f23ebe9da"
+            },
+            "person": {
+                "display_value": "Tara Roberts",
+                "link": "https://localdataset.local/api/now/table/person/052c007cfa0812a3833ddfdf33b74123",
+                "value": "052c007cfa0812a3833ddfdf33b74123"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-10-18",
+                "value": "2021-10-18"
+            },
+            "sys_id": {
+                "display_value": "1b17ba358f94bf2b6386a92e16b09e5e",
+                "value": "1b17ba358f94bf2b6386a92e16b09e5e"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "activity_type": {
+                "display_value": "Contact Customer",
+                "link": "https://localdataset.local/api/now/table/activity_type/411a7ba2672ba4c0a1d8b9980c2a776e",
+                "value": "411a7ba2672ba4c0a1d8b9980c2a776e"
+            },
+            "person": {
+                "display_value": "Samuel Walsh",
+                "link": "https://localdataset.local/api/now/table/person/cd529690f704613b492167b6a51da847",
+                "value": "cd529690f704613b492167b6a51da847"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-03-08",
+                "value": "2021-03-08"
+            },
+            "sys_id": {
+                "display_value": "6bf8c5dd8950f4dc1bee033c836012fe",
+                "value": "6bf8c5dd8950f4dc1bee033c836012fe"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "activity_type": {
+                "display_value": "Escalate To Manager",
+                "link": "https://localdataset.local/api/now/table/activity_type/ef9a311e507edf450ce82fe4ecedb231",
+                "value": "ef9a311e507edf450ce82fe4ecedb231"
+            },
+            "person": {
+                "display_value": "Rachel Burch",
+                "link": "https://localdataset.local/api/now/table/person/2104eeece079a9a694c80effadf1f411",
+                "value": "2104eeece079a9a694c80effadf1f411"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-09-09",
+                "value": "2021-09-09"
+            },
+            "sys_id": {
+                "display_value": "f3d37bd3e52f9dcd0748dfb73767023c",
+                "value": "f3d37bd3e52f9dcd0748dfb73767023c"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "activity_type": {
+                "display_value": "Collect Bug Report",
+                "link": "https://localdataset.local/api/now/table/activity_type/aac8c3d8a1266c50ba7dc49f23ebe9da",
+                "value": "aac8c3d8a1266c50ba7dc49f23ebe9da"
+            },
+            "person": {
+                "display_value": "Mrs. Shelley Lopez",
+                "link": "https://localdataset.local/api/now/table/person/0ffbadb3f1d53002b38200e7e1f555db",
+                "value": "0ffbadb3f1d53002b38200e7e1f555db"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-02-06",
+                "value": "2021-02-06"
+            },
+            "sys_id": {
+                "display_value": "e84412ae8e38b78f353f0830f22a9a48",
+                "value": "e84412ae8e38b78f353f0830f22a9a48"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "false",
+                "value": "false"
+            },
+            "activity_type": {
+                "display_value": "Contact Customer",
+                "link": "https://localdataset.local/api/now/table/activity_type/411a7ba2672ba4c0a1d8b9980c2a776e",
+                "value": "411a7ba2672ba4c0a1d8b9980c2a776e"
+            },
+            "person": {
+                "display_value": "Rachel Burch",
+                "link": "https://localdataset.local/api/now/table/person/2104eeece079a9a694c80effadf1f411",
+                "value": "2104eeece079a9a694c80effadf1f411"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-03-01",
+                "value": "2021-03-01"
+            },
+            "sys_id": {
+                "display_value": "4b3b0e2ecb018d526a4ae502ff10a11a",
+                "value": "4b3b0e2ecb018d526a4ae502ff10a11a"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "false",
+                "value": "false"
+            },
+            "activity_type": {
+                "display_value": "Escalate To Manager",
+                "link": "https://localdataset.local/api/now/table/activity_type/ef9a311e507edf450ce82fe4ecedb231",
+                "value": "ef9a311e507edf450ce82fe4ecedb231"
+            },
+            "person": {
+                "display_value": "Samuel Walsh",
+                "link": "https://localdataset.local/api/now/table/person/cd529690f704613b492167b6a51da847",
+                "value": "cd529690f704613b492167b6a51da847"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-10-05",
+                "value": "2021-10-05"
+            },
+            "sys_id": {
+                "display_value": "bb751b8aa32ab5f98b1340ac2882e9d3",
+                "value": "bb751b8aa32ab5f98b1340ac2882e9d3"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,904 @@
+{
+    "result": [
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2020-05-29",
+                "value": "2020-05-29"
+            },
+            "location": {
+                "display_value": "Branch Office 2",
+                "link": "https://localdataset.local/api/now/table/location/76f5aeb24da7687e1dde674ed9041deb",
+                "value": "76f5aeb24da7687e1dde674ed9041deb"
+            },
+            "number": {
+                "display_value": "CA-141733",
+                "value": "CA-141733"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "Closed",
+                "link": "https://localdataset.local/api/now/table/phase/a01576ec863f1a36ab3e6e4c581a4ce2",
+                "value": "a01576ec863f1a36ab3e6e4c581a4ce2"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-01-10",
+                "value": "2021-01-10"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "5e962ffe49641e31650543d11db05a10",
+                "value": "5e962ffe49641e31650543d11db05a10"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2020-01-21",
+                "value": "2020-01-21"
+            },
+            "location": {
+                "display_value": "Main Office",
+                "link": "https://localdataset.local/api/now/table/location/0385a9b96b611ca25d73a1af79880ff8",
+                "value": "0385a9b96b611ca25d73a1af79880ff8"
+            },
+            "number": {
+                "display_value": "CA-168671",
+                "value": "CA-168671"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "Closed",
+                "link": "https://localdataset.local/api/now/table/phase/a01576ec863f1a36ab3e6e4c581a4ce2",
+                "value": "a01576ec863f1a36ab3e6e4c581a4ce2"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-06-06",
+                "value": "2021-06-06"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "e3cd7fe7c3f22d2bce77e08dacc5887f",
+                "value": "e3cd7fe7c3f22d2bce77e08dacc5887f"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2020-09-04",
+                "value": "2020-09-04"
+            },
+            "location": {
+                "display_value": "Branch Office 2",
+                "link": "https://localdataset.local/api/now/table/location/76f5aeb24da7687e1dde674ed9041deb",
+                "value": "76f5aeb24da7687e1dde674ed9041deb"
+            },
+            "number": {
+                "display_value": "CA-641444",
+                "value": "CA-641444"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "Closed",
+                "link": "https://localdataset.local/api/now/table/phase/a01576ec863f1a36ab3e6e4c581a4ce2",
+                "value": "a01576ec863f1a36ab3e6e4c581a4ce2"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-02-15",
+                "value": "2021-02-15"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "70c99d481375f8bade652bdaecb122d9",
+                "value": "70c99d481375f8bade652bdaecb122d9"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2020-12-06",
+                "value": "2020-12-06"
+            },
+            "location": {
+                "display_value": "Branch Office 1",
+                "link": "https://localdataset.local/api/now/table/location/b06b7c75c6fefd3b3648e30fd18184ff",
+                "value": "b06b7c75c6fefd3b3648e30fd18184ff"
+            },
+            "number": {
+                "display_value": "CA-199151",
+                "value": "CA-199151"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "In Progress",
+                "link": "https://localdataset.local/api/now/table/phase/8ac769fb5eef4c9efb8c5acb110db370",
+                "value": "8ac769fb5eef4c9efb8c5acb110db370"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-10-16",
+                "value": "2021-10-16"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "8fd1ddf0457999e320ea5fa5a0e8ba16",
+                "value": "8fd1ddf0457999e320ea5fa5a0e8ba16"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2021-05-01",
+                "value": "2021-05-01"
+            },
+            "location": {
+                "display_value": "Branch Office 1",
+                "link": "https://localdataset.local/api/now/table/location/b06b7c75c6fefd3b3648e30fd18184ff",
+                "value": "b06b7c75c6fefd3b3648e30fd18184ff"
+            },
+            "number": {
+                "display_value": "CA-446425",
+                "value": "CA-446425"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "In Progress",
+                "link": "https://localdataset.local/api/now/table/phase/8ac769fb5eef4c9efb8c5acb110db370",
+                "value": "8ac769fb5eef4c9efb8c5acb110db370"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-10-03",
+                "value": "2021-10-03"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "3b62114b89274a7ce0d196bc33259e1c",
+                "value": "3b62114b89274a7ce0d196bc33259e1c"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2020-02-11",
+                "value": "2020-02-11"
+            },
+            "location": {
+                "display_value": "Branch Office 1",
+                "link": "https://localdataset.local/api/now/table/location/b06b7c75c6fefd3b3648e30fd18184ff",
+                "value": "b06b7c75c6fefd3b3648e30fd18184ff"
+            },
+            "number": {
+                "display_value": "CA-414295",
+                "value": "CA-414295"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "In Progress",
+                "link": "https://localdataset.local/api/now/table/phase/8ac769fb5eef4c9efb8c5acb110db370",
+                "value": "8ac769fb5eef4c9efb8c5acb110db370"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-01-11",
+                "value": "2021-01-11"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "d509aeeab8be812458b905215ba3f1d8",
+                "value": "d509aeeab8be812458b905215ba3f1d8"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2020-05-10",
+                "value": "2020-05-10"
+            },
+            "location": {
+                "display_value": "Branch Office 1",
+                "link": "https://localdataset.local/api/now/table/location/b06b7c75c6fefd3b3648e30fd18184ff",
+                "value": "b06b7c75c6fefd3b3648e30fd18184ff"
+            },
+            "number": {
+                "display_value": "CA-318905",
+                "value": "CA-318905"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "Open",
+                "link": "https://localdataset.local/api/now/table/phase/1d189c6baa284681be5bf76daf39de67",
+                "value": "1d189c6baa284681be5bf76daf39de67"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-07-30",
+                "value": "2021-07-30"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "ef2da0ce97fee61c754ef53009589a83",
+                "value": "ef2da0ce97fee61c754ef53009589a83"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2021-07-15",
+                "value": "2021-07-15"
+            },
+            "location": {
+                "display_value": "Main Office",
+                "link": "https://localdataset.local/api/now/table/location/0385a9b96b611ca25d73a1af79880ff8",
+                "value": "0385a9b96b611ca25d73a1af79880ff8"
+            },
+            "number": {
+                "display_value": "CA-305227",
+                "value": "CA-305227"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "Closed",
+                "link": "https://localdataset.local/api/now/table/phase/a01576ec863f1a36ab3e6e4c581a4ce2",
+                "value": "a01576ec863f1a36ab3e6e4c581a4ce2"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-06-27",
+                "value": "2021-06-27"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "0c5cf4e4eda6e08229b94b8b81cb3229",
+                "value": "0c5cf4e4eda6e08229b94b8b81cb3229"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2021-01-05",
+                "value": "2021-01-05"
+            },
+            "location": {
+                "display_value": "Branch Office 2",
+                "link": "https://localdataset.local/api/now/table/location/76f5aeb24da7687e1dde674ed9041deb",
+                "value": "76f5aeb24da7687e1dde674ed9041deb"
+            },
+            "number": {
+                "display_value": "CA-055829",
+                "value": "CA-055829"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "Closed",
+                "link": "https://localdataset.local/api/now/table/phase/a01576ec863f1a36ab3e6e4c581a4ce2",
+                "value": "a01576ec863f1a36ab3e6e4c581a4ce2"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-08-25",
+                "value": "2021-08-25"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "e9613be9c1d46175c367b7cc08983b43",
+                "value": "e9613be9c1d46175c367b7cc08983b43"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        },
+        {
+            "active": {
+                "display_value": "true",
+                "value": "true"
+            },
+            "case_type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "closed_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "first_customer_contact": {
+                "display_value": "2021-02-27",
+                "value": "2021-02-27"
+            },
+            "location": {
+                "display_value": "Branch Office 2",
+                "link": "https://localdataset.local/api/now/table/location/76f5aeb24da7687e1dde674ed9041deb",
+                "value": "76f5aeb24da7687e1dde674ed9041deb"
+            },
+            "number": {
+                "display_value": "CA-396340",
+                "value": "CA-396340"
+            },
+            "opened_at": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "opened_by": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user",
+                "value": "(PLACEHOLDER)"
+            },
+            "phase": {
+                "display_value": "Closed",
+                "link": "https://localdataset.local/api/now/table/phase/a01576ec863f1a36ab3e6e4c581a4ce2",
+                "value": "a01576ec863f1a36ab3e6e4c581a4ce2"
+            },
+            "sys_class_name": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_created_on": {
+                "display_value": "2021-08-23",
+                "value": "2021-08-23"
+            },
+            "sys_domain": {
+                "display_value": "(PLACEHOLDER)",
+                "link": "sys_user_group",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_domain_path": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_id": {
+                "display_value": "4b6582754c7f53c00c41f934aae45681",
+                "value": "4b6582754c7f53c00c41f934aae45681"
+            },
+            "sys_mod_count": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_tags": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_by": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "sys_updated_on": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            },
+            "type": {
+                "display_value": "(PLACEHOLDER)",
+                "value": "(PLACEHOLDER)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "active": {
+        "purpose": "TODO"
+    },
+    "name": {
+        "is_table_display_value": true,
+        "purpose": "TODO",
+        "valid_values": [
+            "Open",
+            "In Progress",
+            "Closed"
+        ]
+    },
+    "sys_created_by": {
+        "purpose": "TODO"
+    },
+    "sys_created_on": {
+        "purpose": "TODO"
+    },
+    "sys_id": {
+        "faker": {
+            "args": {},
+            "method": "md5"
+        },
+        "purpose": "Primary Key"
+    },
+    "sys_mod_count": {
+        "purpose": "TODO"
+    },
+    "sys_tags": {
+        "purpose": "TODO"
+    },
+    "sys_updated_by": {
+        "purpose": "TODO"
+    },
+    "sys_updated_on": {
+        "purpose": "TODO"
+    }
+}

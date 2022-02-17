@@ -1,0 +1,29 @@
+{
+    "case": {
+        "name": "Case",
+        "description": "Cases"
+    },
+    "person": {
+        "name": "Person",
+        "description": "People"
+    },
+    "activity": {
+        "name": "Activity",
+        "description": "Activities"
+    },
+    "phase": {
+        "name": "Case Phase",
+        "description": "Case Phase",
+        "is_enum_table": true
+    },
+    "activity_type": {
+        "name": "Activity Type",
+        "description": "Activity Type",
+        "is_enum_table": true
+    },
+    "location": {
+        "name": "Case Location",
+        "description": "Case Location",
+        "is_enum_table": true
+    }
+}

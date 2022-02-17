@@ -1,0 +1,51 @@
+{
+    "active": {
+        "faker": {
+            "args": {
+                "elements": [
+                    "true",
+                    "false"
+                ]
+            },
+            "method": "random_element"
+        },
+        "purpose": "Whether this is an archived record, false effectively means deleted."
+    },
+    "activity_type": {
+        "purpose": "TODO",
+        "reference": "activity_type"
+    },
+    "person": {
+        "purpose": "TODO",
+        "reference": "person"
+    },
+    "sys_created_by": {
+        "purpose": "TODO"
+    },
+    "sys_created_on": {
+        "purpose": "TODO",
+        "valid_date_range": {
+            "date_start": "2021-01-01"
+        }
+    },
+    "sys_id": {
+        "faker": {
+            "args": {},
+            "method": "md5"
+        },
+        "is_table_display_value": true,
+        "purpose": "Primary Key"
+    },
+    "sys_mod_count": {
+        "purpose": "TODO"
+    },
+    "sys_tags": {
+        "purpose": "TODO"
+    },
+    "sys_updated_by": {
+        "purpose": "TODO"
+    },
+    "sys_updated_on": {
+        "purpose": "TODO"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "columns": [
+        {
+            "name": "active",
+            "operations": [
+                {
+                    "operation": "PLUS",
+                    "query": "active=true",
+                    "table": "activity"
+                }
+            ]
+        },
+        {
+            "name": "cases in state open",
+            "operations": [
+                {
+                    "operation": "PLUS",
+                    "query": "phase=18bf17b915b5a99cf12635137f234f75",
+                    "table": "case"
+                }
+            ]
+        },
+        {
+            "name": "one person",
+            "operations": [
+                {
+                    "operation": "PLUS",
+                    "query": "sys_id=24dc616345861aa8bc22f91a41a986bc",
+                    "table": "person"
+                }
+            ]
+        },
+        {
+            "name": "active - cases in state open + one person",
+            "operations": [
+                {
+                    "operation": "PLUS",
+                    "query": "active=true",
+                    "table": "activity"
+                },
+                {
+                    "operation": "MINUS",
+                    "query": "phase=18bf17b915b5a99cf12635137f234f75",
+                    "table": "case"
+                },
+                {
+                    "operation": "PLUS",
+                    "query": "sys_id=24dc616345861aa8bc22f91a41a986bc",
+                    "table": "person"
+                }
+            ]
+        }
+    ],
+    "groupby_options": {
+        "column_name": "Location",
+        "fields": {
+            "activity": [
+                "person.assigned_case.location"
+            ],
+            "person": [
+                "assigned_case.location"
+            ],
+            "case": [
+                "location"
+            ]
+        },
+        "mappings": {
+            "Main Office": "The Big Office",
+            "Branch Office 1": "The Tiny Office",
+            "Branch Office 2": "Lumberg"
+        }
+    },
+    "report_name": "Location Breakdown",
+    "all_columns": [
+        "active - cases in state open + one person",
+        "active",
+        "cases in state open",
+        "one person",
+        "extra column no values"
+    ]
+}
