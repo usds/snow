@@ -1,0 +1,40 @@
+{
+    "result": [
+        {
+            "active": "true",
+            "activity_type": {
+                "display_value": "Collect Bug Report",
+                "link": "https://localdataset.local/api/now/table/activity_type/aac8c3d8a1266c50ba7dc49f23ebe9da"
+            },
+            "person": {
+                "display_value": "Tara Roberts",
+                "link": "https://localdataset.local/api/now/table/person/052c007cfa0812a3833ddfdf33b74123"
+            },
+            "sys_created_by": "(PLACEHOLDER)",
+            "sys_created_on": "2021-10-18",
+            "sys_id": "1b17ba358f94bf2b6386a92e16b09e5e",
+            "sys_mod_count": "(PLACEHOLDER)",
+            "sys_tags": "(PLACEHOLDER)",
+            "sys_updated_by": "(PLACEHOLDER)",
+            "sys_updated_on": "(PLACEHOLDER)"
+        },
+        {
+            "active": "true",
+            "activity_type": {
+                "display_value": "Collect Bug Report",
+                "link": "https://localdataset.local/api/now/table/activity_type/aac8c3d8a1266c50ba7dc49f23ebe9da"
+            },
+            "person": {
+                "display_value": "Mrs. Shelley Lopez",
+                "link": "https://localdataset.local/api/now/table/person/0ffbadb3f1d53002b38200e7e1f555db"
+            },
+            "sys_created_by": "(PLACEHOLDER)",
+            "sys_created_on": "2021-02-06",
+            "sys_id": "e84412ae8e38b78f353f0830f22a9a48",
+            "sys_mod_count": "(PLACEHOLDER)",
+            "sys_tags": "(PLACEHOLDER)",
+            "sys_updated_by": "(PLACEHOLDER)",
+            "sys_updated_on": "(PLACEHOLDER)"
+        }
+    ]
+}

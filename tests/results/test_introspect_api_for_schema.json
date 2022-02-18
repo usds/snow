@@ -1,0 +1,138 @@
+{
+    "activity": {
+        "active": {},
+        "activity_type": {
+            "reference": "activity_type"
+        },
+        "person": {
+            "reference": "person"
+        },
+        "sys_created_by": {},
+        "sys_created_on": {},
+        "sys_id": {
+            "is_table_display_value": true
+        },
+        "sys_mod_count": {},
+        "sys_tags": {},
+        "sys_updated_by": {},
+        "sys_updated_on": {}
+    },
+    "activity_type": {
+        "active": {},
+        "activity_name": {
+            "is_table_display_value": true,
+            "valid_values": [
+                "Collect Bug Report",
+                "Contact Customer",
+                "Escalate To Manager"
+            ]
+        },
+        "sys_created_by": {},
+        "sys_created_on": {},
+        "sys_id": {},
+        "sys_mod_count": {},
+        "sys_tags": {},
+        "sys_updated_by": {},
+        "sys_updated_on": {}
+    },
+    "case": {
+        "active": {},
+        "case_type": {},
+        "closed_at": {},
+        "closed_by": {},
+        "first_customer_contact": {},
+        "location": {
+            "reference": "location"
+        },
+        "number": {
+            "is_table_display_value": true
+        },
+        "opened_at": {},
+        "opened_by": {},
+        "phase": {
+            "reference": "phase"
+        },
+        "sys_class_name": {},
+        "sys_created_by": {},
+        "sys_created_on": {},
+        "sys_domain": {},
+        "sys_domain_path": {},
+        "sys_id": {},
+        "sys_mod_count": {},
+        "sys_tags": {},
+        "sys_updated_by": {},
+        "sys_updated_on": {},
+        "type": {}
+    },
+    "location": {
+        "active": {},
+        "name": {
+            "is_table_display_value": true,
+            "valid_values": [
+                "Branch Office 1",
+                "Branch Office 2",
+                "Main Office"
+            ]
+        },
+        "sys_created_by": {},
+        "sys_created_on": {},
+        "sys_id": {},
+        "sys_mod_count": {},
+        "sys_tags": {},
+        "sys_updated_by": {},
+        "sys_updated_on": {}
+    },
+    "person": {
+        "active": {},
+        "age": {},
+        "assigned_case": {
+            "reference": "case"
+        },
+        "comments": {},
+        "contact_email": {},
+        "contact_phone": {},
+        "country_of_citizenship": {},
+        "date_of_birth": {},
+        "first_name": {},
+        "language": {},
+        "last_name": {},
+        "middle_name": {},
+        "name": {
+            "is_table_display_value": true
+        },
+        "nationality": {},
+        "notes": {},
+        "sex": {
+            "mappings": {
+                "F": "F",
+                "M": "M",
+                "N/A": "N/A"
+            }
+        },
+        "sys_created_by": {},
+        "sys_created_on": {},
+        "sys_id": {},
+        "sys_mod_count": {},
+        "sys_tags": {},
+        "sys_updated_by": {},
+        "sys_updated_on": {}
+    },
+    "phase": {
+        "active": {},
+        "name": {
+            "is_table_display_value": true,
+            "valid_values": [
+                "Closed",
+                "In Progress",
+                "Open"
+            ]
+        },
+        "sys_created_by": {},
+        "sys_created_on": {},
+        "sys_id": {},
+        "sys_mod_count": {},
+        "sys_tags": {},
+        "sys_updated_by": {},
+        "sys_updated_on": {}
+    }
+}

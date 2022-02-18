@@ -1,0 +1,17 @@
+Date (UTC),Location,"active
+PLUS
+active=true",active,"QUERY RETURNED NO RESULTS, INVALID?: cases in state open
+PLUS
+phase=18bf17b915b5a99cf12635137f234f75",cases in state open,"QUERY RETURNED NO RESULTS, INVALID?: one person
+PLUS
+sys_id=24dc616345861aa8bc22f91a41a986bc",one person,"QUERY RETURNED NO RESULTS, INVALID?: active - cases in state open + one person
+PLUS
+sys_id=24dc616345861aa8bc22f91a41a986bc","QUERY RETURNED NO RESULTS, INVALID?: active - cases in state open + one person
+MINUS
+phase=18bf17b915b5a99cf12635137f234f75","active - cases in state open + one person
+PLUS
+active=true",active - cases in state open + one person
+X,Lumberg,2,2,0,0,0,0,0,0,2,2
+X,The Big Office,0,0,0,0,0,0,0,0,0,0
+X,The Tiny Office,3,3,0,0,0,0,0,0,3,3
+X,Total,5,5,0,0,0,0,0,0,5,5

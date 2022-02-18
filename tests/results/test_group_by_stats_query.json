@@ -1,0 +1,37 @@
+{
+    "result": [
+        {
+            "groupby_fields": [
+                {
+                    "field": "activity_type",
+                    "value": "Collect Bug Report"
+                }
+            ],
+            "stats": {
+                "count": 2
+            }
+        },
+        {
+            "groupby_fields": [
+                {
+                    "field": "activity_type",
+                    "value": "Contact Customer"
+                }
+            ],
+            "stats": {
+                "count": 4
+            }
+        },
+        {
+            "groupby_fields": [
+                {
+                    "field": "activity_type",
+                    "value": "Escalate To Manager"
+                }
+            ],
+            "stats": {
+                "count": 4
+            }
+        }
+    ]
+}
