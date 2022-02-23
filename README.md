@@ -158,3 +158,9 @@ There are tools to report on "data quality" that use the Table API instead of
 the Aggregate API (so in theory, those tools in the future could dump datasets
 of "malformed records" for manual correction). However, these don't have a nice
 interface right now, so see the tests for usage details.
+
+## Contributors
+
+The initial code import represents the work of many people from:
+- [U.S. Digital Service](https://usds.gov)
+- [Center for Analytics](https://www.state.gov/about-us-office-of-management-strategy-and-solutions/#cfa)
