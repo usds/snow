@@ -2,7 +2,6 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 from functools import partial
 from typing import List, Tuple, Dict
-import logging
 import json
 import os
 import pandas as pd
@@ -13,12 +12,12 @@ from servicenow_api_tools.clients.endpoint import ServicenowRestEndpoint
 from servicenow_api_tools.clients.querybuilder import AggregateQueryBuilder
 from servicenow_api_tools.clients.querybuilder import TableQueryBuilder
 from servicenow_api_tools.clients.querybuilder import UpdateQueryBuilder
-from servicenow_api_tools.utils import api_results_to_dataframe
+from servicenow_api_tools.utils import api_results_to_dataframe, get_module_logger
 
 
 class AggregateAPIClient:
     def __init__(self, endpoint: ServicenowRestEndpoint):
-        self.logger = logging.getLogger(__name__)
+        self.logger = get_module_logger(__name__)
         self.endpoint = endpoint
 
     def query(self, table: str, group_by: List[str] = None, query: str = None, having: str = None,
@@ -49,7 +48,7 @@ class AggregateAPIClient:
 
 class TableAPIClient:
     def __init__(self, endpoint: ServicenowRestEndpoint):
-        self.logger = logging.getLogger(__name__)
+        self.logger = get_module_logger(__name__)
         self.aggregate_client = AggregateAPIClient(endpoint)
         self.endpoint = endpoint
 
@@ -167,7 +166,7 @@ class TableAPIClient:
 
 class TableAPIUpdateClient:
     def __init__(self, endpoint: ServicenowRestEndpoint):
-        self.logger = logging.getLogger(__name__)
+        self.logger = get_module_logger(__name__)
         self.table_client = TableAPIClient(endpoint)
         self.endpoint = endpoint
         self.queued_updates: Dict[str, List[Dict]] = {}
