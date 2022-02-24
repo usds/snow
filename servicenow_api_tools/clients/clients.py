@@ -263,3 +263,28 @@ class TableAPIUpdateClient:
             print(json.dumps(update_ops, indent=4, sort_keys=True))
         else:
             return self._exec_updates_nocheck(update_ops)
+
+
+class DescsribeAPIClient:
+    def __init__(self, endpoint: ServicenowRestEndpoint):
+        self.logger = get_module_logger(__name__)
+        self.endpoint = endpoint
+
+    def query(self, query: str = None, fields: List[str] = None, limit: int = None,
+              offset: int = None, display_value: str = None,
+              batch_size: int = 2000, max_workers: int = 8,
+              unpack_link_fields: bool = True) -> pd.DataFrame:
+        describe_table = 'sys_db_object'
+
+        self.logger.debug("Delegating describe query to TableAPIClient")
+        tc = TableAPIClient(self.endpoint)
+        return tc.query(table=describe_table,
+            query=query,
+            fields=fields,
+            limit=limit,
+            offset=offset,
+            display_value=display_value,
+            batch_size=batch_size,
+            max_workers=max_workers,
+            unpack_link_fields=unpack_link_fields,
+            )
