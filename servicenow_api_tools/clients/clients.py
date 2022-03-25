@@ -278,7 +278,8 @@ class DescsribeAPIClient:
 
         self.logger.debug("Delegating describe query to TableAPIClient")
         tc = TableAPIClient(self.endpoint)
-        return tc.query(table=describe_table,
+        return tc.query(
+            table=describe_table,
             query=query,
             fields=fields,
             limit=limit,
@@ -287,4 +288,4 @@ class DescsribeAPIClient:
             batch_size=batch_size,
             max_workers=max_workers,
             unpack_link_fields=unpack_link_fields,
-            )
+        )
