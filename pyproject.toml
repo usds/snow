@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "servicenow-api-tools"
-version = "0.1.0"
+version = "0.1.1"
 description = "Tools to help with writing applications against the ServiceNow rest api"
 authors = ["Shaun Verch"]
 
