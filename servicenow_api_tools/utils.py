@@ -28,7 +28,7 @@ def get_module_logger(module_name: str) -> logging.Logger:
         "%(asctime)s [%(name)-12s] %(levelname)-8s %(message)s"
     )
 
-    file_handler = logging.FileHandler(f"{module_name}.out")
+    file_handler = logging.FileHandler(f"{module_name}.out", delay=True)
     file_handler.setFormatter(formatter)
     logger.addHandler(file_handler)
     logger.addHandler(logging.StreamHandler())
