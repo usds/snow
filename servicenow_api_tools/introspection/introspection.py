@@ -82,7 +82,7 @@ def introspect_api_for_schema(
         # there be rows that do not have "link" set? If that's the case, maybe we should fetch more
         # rows to be sure we actually found all the link fields. Also this should probably allow the
         # user to pass extra link fields explicitly, just in case.
-        result = _run_query(table=table, limit=1, filters=filters, fields=[])
+        result = _run_query(table=table, limit=10, filters=filters, fields=[])
         logger.debug(f'Representative row: {table}:{result.to_markdown()}')
 
         fields = list(result.columns.values)
