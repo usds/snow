@@ -62,17 +62,25 @@ def unpack_link_fields(input_df: pd.DataFrame) -> pd.DataFrame:
 
 def load_credentials(username: str = None, password: str = None,
                      credentials_from_env: bool = True) -> Tuple[str, str]:
+    if username:
+        result_username = username
+    elif credentials_from_env:
+        env_username = os.getenv("SNOW_USER")
+        if env_username:
+            result_username = env_username
 
-    if credentials_from_env:
-        if username or password:
-            raise Exception("credentials_from_env is exclusive with username and password")
-        (result_username, result_password) = (os.getenv("SNOW_USER"), os.getenv("SNOW_PASS"))
-        if not result_username or not result_password:
-            raise Exception("No credentials passed and SNOW_USER and SNOW_PASS not set.")
-    else:
-        if not username or not password:
-            raise Exception("Username and password must be passed when not loading from env.")
-        (result_username, result_password) = (username, password)
+    if not result_username:
+        raise Exception("No username passed via argument or SNOW_USER env variable.")
+
+    if password:
+        result_password = password
+    elif credentials_from_env:
+        env_password = os.getenv("SNOW_PASS")
+        if env_password:
+            result_password = env_password
+
+    if not result_password:
+        raise Exception("No password passed via argument or SNOW_PASS env variable.")
 
     assert result_username is not None
     assert result_password is not None
