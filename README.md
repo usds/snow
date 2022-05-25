@@ -159,6 +159,17 @@ the Aggregate API (so in theory, those tools in the future could dump datasets
 of "malformed records" for manual correction). However, these don't have a nice
 interface right now, so see the tests for usage details.
 
+## Releasing
+
+1. run `tox` and resolve lint and test failures
+1. update the version in `pyproject.yoml`
+1. commit that change and merge it into main
+1. visit https://github.com/usds/snow/releases
+1. Draft new release
+1. create new tag that matches the version above
+1. roll up change descriptions into summarized change log
+1. publish
+
 ## Contributors
 
 The initial code import represents the work of many people from:
