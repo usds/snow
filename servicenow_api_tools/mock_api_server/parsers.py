@@ -1,6 +1,7 @@
 from lark import Lark, Tree
 import urllib.parse as parse
 from typing import Dict
+from servicenow_api_tools.utils import remove_prefix
 
 
 def parse_sysparm_query(query: str) -> Tree:
@@ -74,7 +75,7 @@ def parse_sysparm_limit(limit: str) -> Tree:
 def parse_stats_query_url(url: str) -> Dict:
     split = parse.urlsplit(url)
     assert split.path.startswith("/api/now/stats/")
-    table = split.path.removeprefix("/api/now/stats/")
+    table = remove_prefix(split.path, "/api/now/stats/")
     params = parse.parse_qs(split.query)
     assert params['sysparm_count'] == ['true']
     return {
@@ -95,7 +96,7 @@ def parse_stats_query_url(url: str) -> Dict:
 def parse_table_query_url(url: str) -> Dict:
     split = parse.urlsplit(url)
     assert split.path.startswith("/api/now/table/")
-    table = split.path.removeprefix("/api/now/table/")
+    table = remove_prefix(split.path, "/api/now/table/")
     params = parse.parse_qs(split.query)
     return {
         "endpoint": "table",

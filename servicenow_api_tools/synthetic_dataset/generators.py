@@ -4,6 +4,7 @@ import os
 from typing import Dict, List, Tuple, Optional
 from faker import Faker
 from servicenow_api_tools.schema.schema import load_fields_catalog
+from servicenow_api_tools.utils import remove_suffix
 
 
 def non_link_field(hash_value: str, display_value: str):
@@ -76,7 +77,7 @@ def generate_synthetic_dataset(
     tables = []
     for schema in os.listdir(schemas_dir):
         if schema.endswith(".json"):
-            tables.append(schema.removesuffix(".json"))
+            tables.append(remove_suffix(schema, ".json"))
     print(f"Tables: {tables}")
 
     # The dataset dictionary, of the format "table" -> "api-like result set"

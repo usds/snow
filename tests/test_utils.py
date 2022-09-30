@@ -1,5 +1,6 @@
 import os
 from servicenow_api_tools.clients import utils
+from servicenow_api_tools.utils import remove_prefix, remove_suffix
 import unittest
 
 
@@ -98,3 +99,22 @@ class CredentailsTestCase(unittest.TestCase):
             self.fail("should fail if no password is found")
         except Exception:
             pass
+
+
+class StringUtilsTestCase(unittest.TestCase):
+
+    def test_remove_suffix_true(self):
+        self.assertEqual(remove_suffix("jsontest.json", ".json"),
+                         "jsontest")
+
+    def test_remove_suffix_false(self):
+        self.assertEqual(remove_suffix("jsontest.py", ".json"),
+                         "jsontest.py")
+
+    def test_remove_prefix_true(self):
+        self.assertEqual(remove_prefix("/api/now/stats/activity", "/api/now/stats/"),
+                         "activity")
+
+    def test_remove_prefix_false(self):
+        self.assertEqual(remove_prefix("/api/now/stats/activity", "/api/now/table/"),
+                         "/api/now/stats/activity")

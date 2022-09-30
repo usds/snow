@@ -37,3 +37,15 @@ def get_module_logger(module_name: str) -> logging.Logger:
     if DEBUG_LOG:
         logger.setLevel(logging.DEBUG)
     return logger
+
+
+def remove_prefix(input: str, prefix: str) -> str:
+    if input.startswith(prefix):
+        input = input[len(prefix):]
+    return input
+
+
+def remove_suffix(input: str, suffix: str) -> str:
+    if input.endswith(suffix):
+        input = input[:-len(suffix)]
+    return input
