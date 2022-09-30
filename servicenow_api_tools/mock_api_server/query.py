@@ -8,6 +8,7 @@ import pandas as pd
 import servicenow_api_tools.mock_api_server.parsers as parsers
 from servicenow_api_tools.schema.schema import load_fields_catalog
 from servicenow_api_tools.utils import dataframe_to_api_results, api_results_to_dataframe
+from servicenow_api_tools.utils import remove_suffix
 
 logging.basicConfig()
 logger = logging.getLogger(__name__)
@@ -40,7 +41,7 @@ class LocalDatasetQueryRunner():
             data_file_fullpath = os.path.join(data_directory, data_file)
             if not data_file.endswith(".json"):
                 raise Exception(f"Found non json data file: {data_file_fullpath}")
-            table_name = data_file.removesuffix(".json")
+            table_name = remove_suffix(data_file, ".json")
             with open(data_file_fullpath, 'r') as f:
                 dataset[table_name] = api_results_to_dataframe(json.loads(f.read()))
         return dataset
