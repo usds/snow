@@ -62,6 +62,7 @@ def unpack_link_fields(input_df: pd.DataFrame) -> pd.DataFrame:
 
 def load_credentials(username: str = None, password: str = None,
                      credentials_from_env: bool = True) -> Tuple[str, str]:
+    result_username = None
     if username:
         result_username = username
     elif credentials_from_env:
@@ -72,6 +73,7 @@ def load_credentials(username: str = None, password: str = None,
     if not result_username:
         raise Exception("No username passed via argument or SNOW_USER env variable.")
 
+    result_password = None
     if password:
         result_password = password
     elif credentials_from_env:
